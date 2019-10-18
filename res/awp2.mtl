@@ -1,0 +1,65 @@
+# Blender MTL File: 'None'
+# Material Count: 6
+
+newmtl Barrel
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Body
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bullet
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump AWP\\AWP\\Textures\\Magazine\\Magazine_Normal_DirectX.png
+map_Kd AWP\\AWP\\Textures\\Magazine\\Magazine_Specular.png
+map_Ks AWP\\AWP\\Textures\\Magazine\\Magazine_Specular.png
+
+newmtl Lenses
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Magazine
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Scope
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
