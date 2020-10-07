@@ -1,2 +1,2 @@
-# OpenGL-3D-Java-Game
-A 3D OpenGL Java game with LWJGL
+# random-opengl-3d-java-test
+some random opengl 3d sandbox thing
